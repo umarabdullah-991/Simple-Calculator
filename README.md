@@ -87,3 +87,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Conclusion
 
 This simple calculator project is an excellent starting point for beginners learning web development with HTML, CSS, and JavaScript. It covers basic UI design and interactive functionality, providing a foundation for more advanced projects.
+
+**Contact Us:**
+If you have any questions or inquiries, you can reach out to us via email at [umarabdullah.work@gmail.com](mailto:umarabdullah.work@gmail.com).
