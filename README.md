@@ -1,6 +1,6 @@
 # Simple Calculator
 
-This project is a simple calculator built using HTML, CSS, and JavaScript. The calculator provides basic arithmetic operations such as addition, subtraction, multiplication, and division. The user interface is designed with a modern aesthetic, using the Orbitron font and a color scheme that is both visually appealing and functional.
+This project is a [Simple Calculator](https://simple-calculaterr.netlify.app/) built using HTML, CSS, and JavaScript. The calculator provides basic arithmetic operations such as addition, subtraction, multiplication, and division. The user interface is designed with a modern aesthetic, using the Orbitron font and a color scheme that is both visually appealing and functional.
 
 ## Features
 
